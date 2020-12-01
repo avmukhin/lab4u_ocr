@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+youtube-dl
+matplotlib
+opencv
+pytesseract
