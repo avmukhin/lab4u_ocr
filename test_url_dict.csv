@@ -1,0 +1,471 @@
+TEST_NAME,URL
+"Подбор анализов",https://lab4u.ru/store/test/podbor-analizov/
+"Платные услуги (99 р.)",https://lab4u.ru/store/test/platnye-uslugi-99-r-/
+"Платные услуги (199 р.)",https://lab4u.ru/store/test/platnye-uslugi-199-r-/
+"Женский комплекс анализов "Здоровый спорт"",https://lab4u.ru/store/test/zhenskiy-kompleks-analizov-zdorovyy-sport/
+"Комплекс анализов для курса диетологии от DOC+",https://lab4u.ru/store/test/kompleks-analizov-dlya-kursa-dietologii-ot-doc/
+"Коагулограмма для беременных (комплекс анализов)",https://lab4u.ru/store/test/koagulogramma-dlya-beremennykh/
+"Подарочный сертификат женщине 15-24 лет",https://lab4u.ru/store/test/podarochnyy-sertifikat-zhenshchine-15-24/
+"Подарочный сертификат женщине 25-34 лет",https://lab4u.ru/store/test/podarochnyy-sertifikat-zhenshchine-25-34-let/
+"Подарочный сертификат мужчине 15-24 лет",https://lab4u.ru/store/test/podarochnyy-sertifikat-muzhchine-15-24-let/
+"Подарочный сертификат женщине 35-44 лет",https://lab4u.ru/store/test/podarochnyy-sertifikat-zhenshchine-35-44-let/
+"Подарочный сертификат мужчине 25-34 лет",https://lab4u.ru/store/test/podarochnyy-sertifikat-muzhchine-25-34-let/
+"Подарочный сертификат женщине 45-59 лет",https://lab4u.ru/store/test/podarochnyy-sertifikat-zhenshchine-45-59-let/
+"Подарочный сертификат мужчине 35-44 лет",https://lab4u.ru/store/test/podarochnyy-sertifikat-muzhchine-35-44-let/
+"Подарочный сертификат женщине старше 60 лет",https://lab4u.ru/store/test/podarochnyy-sertifikat-zhenshchine-starshe-60-let/
+"Подарочный сертификат мужчине 45-59 лет",https://lab4u.ru/store/test/podarochnyy-sertifikat-muzhchine-45-59-let/
+"Подарочный сертификат мужчине старше 60 лет",https://lab4u.ru/store/test/podarochnyy-sertifikat-muzhchine-starshe-60-let/
+"Антитела к вирусу иммунодефицита человека 1,2 (ВИЧ 1,2, антитела к вирусу иммунодефицита человека, ВИЧ-1 p24, ВИЧ-1-антиген, p24-антиген, Anti-HIV, HIV antibodies, HIV-1 p24, HIV-1 Ag)",https://lab4u.ru/store/test/antitela-k-virusu-immunodefitsita-cheloveka-1-2-vich-1-2/
+"Антитела к антигенам гельминтов (описторхисов, эхинококков, токсокар, трихинелл) IgG",https://lab4u.ru/store/test/antitela-k-antigenam-gelmintov-opistorkhisov-ekhinokokkov-toksоkar-trikhinell-igg/
+"Вирусы папилломы человека (HPV) тип 16, 31, 35, обнаружение ДНК",https://lab4u.ru/store/test/virusy-papillomy-cheloveka-hpv-tip-16-31-35-obnaruzhenie-dnk/
+"Вирусы папилломы человека (HPV) тип 18, 39, 45, 59, обнаружение ДНК",https://lab4u.ru/store/test/virusy-papillomy-cheloveka-hpv-tip-18-39-45-59-obnaruzhenie-dnk/
+"Вирусы папилломы человека (HPV) тип 33, 52, 58, обнаружение ДНК",https://lab4u.ru/store/test/virusy-papillomy-cheloveka-hpv-tip-33-52-58-obnaruzhenie-dnk/
+"Липидограмма (жировой обмен, скрининг)",https://lab4u.ru/store/test/lipidogramma-zhirovoy-obmen-skrining/
+"Генетическое тестирование на отцовство (родство) для 2-их",https://lab4u.ru/store/test/geneticheskoe-testirovanie-na-ottsovstvo/
+"Генетическое тестирование на отцовство (родство) для 3-их",https://lab4u.ru/store/test/geneticheskoe-testirovanie-na-ottsovstvo-rodstvo-dlya-3-ikh-po-vsey-rossii/
+"Витамин D (кальциферол)",https://lab4u.ru/store/test/vitamin-d-kaltsiferol/
+"Тестостерон свободный (тестостерон прямой, free testosterone, testosterone direct, unbound testosterone)",https://lab4u.ru/store/test/testosteron-svobodnyy-testosteron-pryamoy-free-testosterone-testosterone-direct-unbound-testosterone/
+"Комплекс анализов при детокс терапии",https://lab4u.ru/store/test/kompleks-analizov-pri-detoks-terapii/
+"Кровь на иммуноглобулин M (Immunoglobulin M, IgM)",https://lab4u.ru/store/test/krov-na-immunoglobulin-m-immunoglobulin-m-igm/
+"Проба Зимницкого (Проба мочи по Зимницкому)",https://lab4u.ru/store/test/proba-zimnitskogo-proba-mochi-po-zimnitskomu/
+"Антитела к Candida IgG, титр",https://lab4u.ru/store/test/antitela-k-candida-igg-titr/
+"Подарочный сертификат на Ежегодное обследование (комплекс анализов)",https://lab4u.ru/store/test/podarochnyy-sertifikat-na-ezhegodnoe-obsledovanie-kompleks-analizov/
+"Mycoplasma hominis, обнаружение ДНК (количественный)",https://lab4u.ru/store/test/mycoplasma-hominis-dnk-kolichestvennyy/
+"Ureaplasma urealyticum/Ureaplasma parvum, обнаружение ДНК (количественный)",https://lab4u.ru/store/test/ureaplasma-urealyticum-parvum-dnk-kolichestvennyy/
+"Mycoplasma genitalium, обнаружение ДНК (количественный)",https://lab4u.ru/store/test/mycoplasma-genitalium-dnk-kolichestvennyy/
+"Chlamydia trachomatis, обнаружение ДНК (количественный)",https://lab4u.ru/store/test/chlamydia-trachomatis-dnk-kolichestvennyy/
+"Neisseria gonorrhoeae, обнаружение ДНК (количественный)",https://lab4u.ru/store/test/neisseria-gonorrhoeae-obnaruzhenie-dnk-kolichestvennyy/
+"Trichomonas vaginalis, обнаружение ДНК (количественный)",https://lab4u.ru/store/test/trichomonas-vaginalis-dnk-kolichestvennyy/
+"Candida (C. albicans, C. glabrata, C. krusei, C. parapsilosis, C. tropicalis), обнаружение ДНК (количественный)",https://lab4u.ru/store/test/candida-dnk-kolichestvennyy/
+"Цитомегаловирус, обнаружение ДНК (количественный, мазок)",https://lab4u.ru/store/test/tsitomegalovirus-dnk-kolichestvennyy/
+"Вирус простого герпеса (HSV) тип 1, 2, обнаружение ДНК (количественный, мазок)",https://lab4u.ru/store/test/hsv-1-2-dnk-kolichestvennyy/
+"Общий анализ крови (CBC) без лейкоцитарной формулы  и СОЭ",https://lab4u.ru/store/test/obshchiy-analiz-krovi-cbc-bez-leykotsitarnoy-formuly/
+"Общий анализ крови (CBC/Diff) с лейкоцитарной формулой без СОЭ",https://lab4u.ru/store/test/obshchiy-analiz-krovi-cbc-diff-s-leykotsitarnoy-formuloy/
+"Лейкоцитарная формула (микроскопия)",https://lab4u.ru/store/test/leykotsitarnaya-formula-mikroskopiya/
+"Лейкоцитарная формула + лейкоцитарный индекс интоксикации",https://lab4u.ru/store/test/leykotsitarnaya-formula-lii/
+"Ретикулоциты и Общий анализ крови   (CBC/Diff)  с лейкоцитарной формулой без СОЭ",https://lab4u.ru/store/test/retikulotsity/
+"СОЭ по Вестергрену",https://lab4u.ru/store/test/soe-po-vestergrenu/
+"Общий клинический анализ крови  (CBC/Diff) с лейкоцитарной формулой и СОЭ",https://lab4u.ru/store/test/obshchiy-analiz-krovi-cbc-diff-soe/
+"Общий анализ крови с микроскопией",https://lab4u.ru/store/test/obshchiy-analiz-krovi-s-mikroskopiey/
+"Общий анализ крови с микроскопией и лейкоцитарным индексом",https://lab4u.ru/store/test/obshchiy-analiz-krovi-s-mikroskopiey-i-leykotsitarnym-indeksom/
+"Ретикулоциты количество",https://lab4u.ru/store/test/retikulotsitarnyy-indeks/
+"Группа крови и резус-фактор",https://lab4u.ru/store/test/gruppa-krovi-i-rezus-faktor/
+Альбумин,https://lab4u.ru/store/test/albumin/
+"Общий белок",https://lab4u.ru/store/test/obshchiy-belok/
+"Белковые фракции в сыворотке методом электрофореза",https://lab4u.ru/store/test/belkovye-fraktsii-elektroforez/
+Креатинин,https://lab4u.ru/store/test/kreatinin/
+Мочевина,https://lab4u.ru/store/test/mochevina/
+"Мочевая кислота",https://lab4u.ru/store/test/mochevaya-kislota/
+Гомоцистеин,https://lab4u.ru/store/test/gomotsistein/
+"С-реактивный белок",https://lab4u.ru/store/test/crp/
+АСЛО,https://lab4u.ru/store/test/antistreptolizin-o/
+"Ревматоидный фактор",https://lab4u.ru/store/test/revmatoidnyy-faktor/
+Гаптоглобин,https://lab4u.ru/store/test/gaptoglobin/
+Лактат,https://lab4u.ru/store/test/laktat-molochnaya-kislota/
+"Холестерин общий",https://lab4u.ru/store/test/kholesterin/
+Холестерин-ЛПВП,https://lab4u.ru/store/test/kholesterin-lpvp/
+Холестерин-ЛПНП,https://lab4u.ru/store/test/kholesterin-lpnp/
+Триглицериды,https://lab4u.ru/store/test/triglitseridy/
+"Аполипопротеин А1",https://lab4u.ru/store/test/apolipoprotein-a1/
+"Аполипопротеин В",https://lab4u.ru/store/test/apolipoprotein-v/
+"Липопротеин (а)",https://lab4u.ru/store/test/lipoprotein-a/
+"Билирубин общий",https://lab4u.ru/store/test/bilirubin-obshchiy/
+"Билирубин прямой",https://lab4u.ru/store/test/bilirubin-pryamoy/
+"Билирубин и его фракции: общий, прямой и непрямой",https://lab4u.ru/store/test/bilirubin-i-ego-fraktsii-bilirubin-obshchiy-pryamoy-i-nepryamoy/
+АЛТ,https://lab4u.ru/store/test/alt/
+АСТ,https://lab4u.ru/store/test/ast/
+Альфа-амилаза,https://lab4u.ru/store/test/alfa-amilaza/
+"Альфа-амилаза панкреатическая",https://lab4u.ru/store/test/alfa-amilaza-pankreaticheskaya/
+ГГТП,https://lab4u.ru/store/test/ggtp/
+ЛДГ,https://lab4u.ru/store/test/ldg/
+"ЛДГ-1,2",https://lab4u.ru/store/test/ldg-1-2/
+Липаза,https://lab4u.ru/store/test/lipaza/
+КФК,https://lab4u.ru/store/test/kreatinkinaza/
+"Щелочная фосфатаза",https://lab4u.ru/store/test/shchelochnaya-fosfataza/
+"Калий (К+), Натрий (Na+), Хлор (Сl-)",https://lab4u.ru/store/test/kaliy-natriy-khloridy/
+"Железо (сывороточное)",https://lab4u.ru/store/test/zhelezo/
+ЛЖСС,https://lab4u.ru/store/test/lzhss/
+ОЖСС,https://lab4u.ru/store/test/ozhss-zhelezo-lzhss/
+Трансферрин,https://lab4u.ru/store/test/transferrin/
+"Насыщение трансферрина железом",https://lab4u.ru/store/test/nasyshchenie-transferrina-zhelezom-transferrin-zhelezo-nasyshcheniya-transferrina-zhelezom/
+Ферритин,https://lab4u.ru/store/test/ferritin/
+"Обмен железа (комплекс анализов)",https://lab4u.ru/store/test/obmen-zheleza/
+"Биохимический анализ крови (скрининг)",https://lab4u.ru/store/test/biokhimicheskoe-issledovanie-krovi-skrining/
+"Биохимический анализ крови (расширенный)",https://lab4u.ru/store/test/biokhimicheskoe-issledovanie-krovi-rasshirennoe/
+Остеокальцин,https://lab4u.ru/store/test/osteokaltsin/
+Церулоплазмин,https://lab4u.ru/store/test/tseruloplazmin/
+"Комплексный анализ крови на аминокислоты, 16 показателей",https://lab4u.ru/store/test/kompleksnyy-analiz-krovi-na-aminokisloty-16-pokazateley/
+"Антитела к внутреннему фактору",https://lab4u.ru/store/test/antitela-k-vnutrennemu-faktoru/
+ЛГ,https://lab4u.ru/store/test/lg/
+ФСГ,https://lab4u.ru/store/test/fsg/
+Пролактин,https://lab4u.ru/store/test/prolaktin/
+Прогестерон,https://lab4u.ru/store/test/progesteron/
+Эстрадиол,https://lab4u.ru/store/test/estradiol-e2/
+"Тестостерон общий",https://lab4u.ru/store/test/testosteron-obshchiy/
+"Тестостерон свободный",https://lab4u.ru/store/test/testosteron-svobodnyy/
+Дигидротестостерон,https://lab4u.ru/store/test/digidrotestosteron/
+ГСПГ,https://lab4u.ru/store/test/shbg-globulin-svyazyvayushchiy-polovye-gormony/
+"Андрогенный статус (SHBG, тестостерон общий, свободный и биологически активный)",https://lab4u.ru/store/test/androgennyy-status-testosteron-obshchiy-shbg-testosteron-svobodnyy-testosteron-biologicheskiaktivnyy/
+"17-OH прогестерон",https://lab4u.ru/store/test/17oh-pg-17-gidroksiprogesteron/
+Андростендион,https://lab4u.ru/store/test/androstendion/
+"ДГЭА сульфат",https://lab4u.ru/store/test/dhea-s-degidroepiandrosteron-sulfat/
+Кортизол,https://lab4u.ru/store/test/kortizol/
+СТГ,https://lab4u.ru/store/test/stg/
+Соматомедин-С,https://lab4u.ru/store/test/ipfr-1/
+Инсулин,https://lab4u.ru/store/test/insulin/
+С-пептид,https://lab4u.ru/store/test/s-peptid/
+"Контроль фолликулиновой фазы МЦ (ЛГ, ФСГ, пролактин, эстрадиол)",https://lab4u.ru/store/test/kontrol-follikulinovoy-fazy-mts/
+"Контроль лютеиновой фазы МЦ (ЛГ, ФСГ, пролактин, прогестерон)",https://lab4u.ru/store/test/kontrol-lyuteinovoy-fazy-mts/
+"Гормональный мужской комплекс анализов (мужские половые гормоны)",https://lab4u.ru/store/test/gormonalnyy-muzhskoy/
+"Гинекомастия (комплекс анализов)",https://lab4u.ru/store/test/ginekomastiya/
+"Гормональный женский комплекс анализов (женские половые гормоны)",https://lab4u.ru/store/test/gormonalnyy-zhenskiy/
+АКТГ,https://lab4u.ru/store/test/aktg-adrenokortikotropnyy-gormon/
+Паратгормон,https://lab4u.ru/store/test/paratgormon/
+Кальцитонин,https://lab4u.ru/store/test/kaltsitonin/
+"Антимюллеров гормон",https://lab4u.ru/store/test/anti-myullerov-gormon/
+"Ингибин В",https://lab4u.ru/store/test/ingibin-b/
+Лептин,https://lab4u.ru/store/test/leptin/
+ТТГ,https://lab4u.ru/store/test/ttg/
+"Т3 общий",https://lab4u.ru/store/test/t3-obshchiy/
+"Т3 свободный",https://lab4u.ru/store/test/t3-svobodnyy/
+"Т4 общий",https://lab4u.ru/store/test/t4-obshchiy/
+"Т4 свободный",https://lab4u.ru/store/test/t4-svobodnyy/
+Тиреоглобулин,https://lab4u.ru/store/test/tireoglobulin/
+"Антитела к тиреоглобулину",https://lab4u.ru/store/test/antitela-k-tg/
+"Антитела к ТПО",https://lab4u.ru/store/test/antitela-k-tpo/
+"Щитовидная железа (скрининг)",https://lab4u.ru/store/test/shchitovidnaya-zheleza-skrining/
+"Гормоны щитовидной железы (расширенное обследование)",https://lab4u.ru/store/test/shchitovidnaya-zheleza-rasshirennoe-obsledovanie/
+"Щитовидная железа (полное обследование)",https://lab4u.ru/store/test/shchitovidnaya-zheleza-polnoe-obsledovanie/
+"Тироксинсвязывающий глобулин",https://lab4u.ru/store/test/tbg-tiroksinsvyazyvayushchiy-globulin/
+"Тироксинсвязывающая способность",https://lab4u.ru/store/test/tiroksinsvyazyvayushchaya-sposobnost-syvorotki-t-uptake/
+"Антитела к рецепторам ТТГ",https://lab4u.ru/store/test/antitela-k-retseptoram-ttg/
+АФП,https://lab4u.ru/store/test/afp/
+"ПСА общий",https://lab4u.ru/store/test/psa-obshchiy/
+"ПСА свободный",https://lab4u.ru/store/test/psa-svobodnyy/
+РЭА,https://lab4u.ru/store/test/rea/
+"СА 15-3",https://lab4u.ru/store/test/sa-15-3/
+"СА 125",https://lab4u.ru/store/test/sa-125/
+"СА 19-9",https://lab4u.ru/store/test/sa-19-9/
+"Онкологический женский комплекс анализов",https://lab4u.ru/store/test/onkologicheskiy-zhenskiy/
+"Онкологический мужской комплекс анализов",https://lab4u.ru/store/test/onkologicheskiy-muzhskoy/
+"Новообразования желудочно-кишечного тракта",https://lab4u.ru/store/test/novoobrazovaniya-zheludochno-kishechnogo-trakta/
+"Новообразования молочной железы",https://lab4u.ru/store/test/novoobrazovaniya-molochnoy-zhelezy/
+"Новообразования печени",https://lab4u.ru/store/test/novoobrazovaniya-pecheni/
+"Новообразования поджелудочной железы",https://lab4u.ru/store/test/novoobrazovaniya-podzheludochnoy-zhelezy/
+"Новообразования яичников",https://lab4u.ru/store/test/novoobrazovaniya-yaichnikov/
+"Новообразования простаты",https://lab4u.ru/store/test/novoobrazovaniya-prostaty/
+"Новообразования яичек",https://lab4u.ru/store/test/novoobrazovaniya-yaichek/
+"Новообразования щитовидной железы",https://lab4u.ru/store/test/novoobrazovaniya-shchitovidnoy-zhelezy-rea-ttg-t4-tireoglobulin/
+"Новообразования прямой кишки",https://lab4u.ru/store/test/novoobrazovaniya-pryamoy-kishki/
+"СА 72-4",https://lab4u.ru/store/test/ca-72-4-antigen/
+"Белок S100",https://lab4u.ru/store/test/belok-s100/
+Cyfra-21-1,https://lab4u.ru/store/test/cyfra-21-1/
+NSE,https://lab4u.ru/store/test/nse-neyronspetsificheskaya-enolaza/
+SCCA,https://lab4u.ru/store/test/antigen-ploskokletochnoy-kartsinomy-scca/
+UBC,https://lab4u.ru/store/test/ubc-marker-raka-mochevogo-puzyrya/
+"Риск наличия злокачественной опухоли яичника ROMA",https://lab4u.ru/store/test/roma/
+HE4,https://lab4u.ru/store/test/he4/
+"ПСА общий, ПСА свободный, соотношение ПСА св/ПСА общ",https://lab4u.ru/store/test/psa-obshchiy-psa-svobodnyy-sootnoshenie-psasv-psa-obshch/
+"Протромбиновое время",https://lab4u.ru/store/test/protrombinovoe-vremya-mno-protrombinovyy-indeks/
+"Тромбиновое время",https://lab4u.ru/store/test/trombinovoe-vremya/
+Фибриноген,https://lab4u.ru/store/test/fibrinogen/
+АЧТВ,https://lab4u.ru/store/test/achtv/
+"Антитромбин III",https://lab4u.ru/store/test/antitrombin-iii/
+Д-димер,https://lab4u.ru/store/test/d-dimer/
+"Волчаночный антикоагулянт",https://lab4u.ru/store/test/volchanochnyy-antikoagulyant/
+"Коагулограмма (комплекс анализов)",https://lab4u.ru/store/test/svyertyvaemost-krovi/
+"Контроль антикоагулянтной терапии",https://lab4u.ru/store/test/kontrol-antikoagulyantnoy-terapii/
+"Повышенная кровоточивость (комплекс анализов)",https://lab4u.ru/store/test/povyshennaya-krovotochivost/
+"Глюкоза в моче, разовая порция",https://lab4u.ru/store/test/glyukoza-mochi/
+"Белок общий в моче, разовая порция",https://lab4u.ru/store/test/belok-mochi/
+"Альфа-амилаза в моче, разовая порция",https://lab4u.ru/store/test/alfa-amilaza-v-moche/
+"Альфа-амилаза панкреатическая в моче, разовая порция",https://lab4u.ru/store/test/alfa-amilaza-pankreaticheskaya-v-moche/
+"Альбумин в моче, разовая порция",https://lab4u.ru/store/test/albumin-v-moche-mikroalbuminuriya/
+"Глюкоза в моче суточной",https://lab4u.ru/store/test/glyukoza-v-moche-sutochnoy/
+"Белок общий в моче суточной",https://lab4u.ru/store/test/belok-v-moche-sutochnoy/
+"Альбумин в моче суточной",https://lab4u.ru/store/test/albumin-v-moche-sutochnoy/
+"Креатинин в моче суточной",https://lab4u.ru/store/test/kreatinin-v-moche-sutochnoy/
+"Мочевина в моче суточной",https://lab4u.ru/store/test/mochevina-v-moche-sutochnoy/
+"Мочевая кислота в моче суточной",https://lab4u.ru/store/test/mochevaya-kislota-v-moche-sutochnoy/
+"Калий (К+), Натрий (Na+), Хлор (Сl-) в моче суточной",https://lab4u.ru/store/test/kaliy-natriy-khloridy-v-moche-sutochnoy/
+"Кортизол в моче суточной",https://lab4u.ru/store/test/kortizol-v-moche-sutochnoy/
+"Общий анализ мочи",https://lab4u.ru/store/test/obshchiy-analiz-mochi/
+"Анализ кала на скрытую кровь",https://lab4u.ru/store/test/issledovanie-kala-na-skrytuyu-krov/
+"Анализ кала на яйца гельминтов",https://lab4u.ru/store/test/issledovanie-kala-na-yaytsa-gelmintov/
+"Анализ кала на цисты простейших",https://lab4u.ru/store/test/issledovanie-kala-na-prosteyshie/
+"Анализ на энтеробиоз",https://lab4u.ru/store/test/issledovanie-na-enterobioz/
+"Анализ мочи по Нечипоренко",https://lab4u.ru/store/test/issledovanie-mochi-metodom-nechiporenko/
+Спермограмма,https://lab4u.ru/store/test/issledovanie-eyakulyata-spermogramma/
+"Дисбактериоз кишечника",https://lab4u.ru/store/test/analiz-kala-na-disbakterioz/
+"Общий анализ кала",https://lab4u.ru/store/test/obshchiy-analiz-kala-koprogramma/
+Глюкоза,https://lab4u.ru/store/test/glyukoza/
+"Гликированный гемоглобин",https://lab4u.ru/store/test/glikirovannyy-gemoglobin-hba1c/
+Фруктозамин,https://lab4u.ru/store/test/fruktozamin/
+"Сахарный диабет (диагностика)",https://lab4u.ru/store/test/sakharnyy-diabet-diagnostika/
+"Сахарный диабет (контроль гликемии)",https://lab4u.ru/store/test/sakharnyy-diabet-kontrol-glikemii/
+"Сахарный диабет (контроль лечения)",https://lab4u.ru/store/test/sakharnyy-diabet-kontrol-lecheniya/
+"Антитела к ВИЧ 1, 2 и антиген",https://lab4u.ru/store/test/antitela-k-virusu-immunodefitsita-cheloveka-1-2-vich-1-2-antigen-ag/
+"Anti-HAV IgM Антитела к вирусу гепатита А IgM",https://lab4u.ru/store/test/antitela-k-virusu-gepatita-a-anti-hav-igm/
+"Anti-HAV IgG Антитела к вирусу гепатита А IgG (количественный)",https://lab4u.ru/store/test/antitela-k-virusu-gepatita-a-anti-hav-igg/
+"HBsAg Поверхностный антиген вируса гепатита В",https://lab4u.ru/store/test/poverkhnostnyy-antigen-virusa-gepatita-v-hbsag/
+"Anti-Hbs total Антитела к поверхностному антигену вируса гепатита В суммарные (количественный)",https://lab4u.ru/store/test/antitela-k-poverkhnostnomu-antigenu-virusa-gepatita-v-anti-hbs-summarnye/
+"Anti-HCV total Антитела к вирусу гепатита С суммарные",https://lab4u.ru/store/test/antitela-k-virusu-gepatita-s-anti-hcv-summarnye/
+"Антитела к цитомегаловирусу IgM",https://lab4u.ru/store/test/antitela-k-tsitomegalovirusu-igm/
+"Антитела к цитомегаловирусу IgG (количественный)",https://lab4u.ru/store/test/antitela-k-tsitomegalovirusu-igg/
+"Антитела к вирусу простого герпеса 1 и 2 типа IgG",https://lab4u.ru/store/test/antitela-k-virusu-prostogo-gerpesa-1-i-2-tipa-igg/
+"Антитела к вирусу простого герпеса 1 и 2 типа IgM",https://lab4u.ru/store/test/antitela-k-virusu-prostogo-gerpesa-1-i-2-tipa-igm/
+"Антитела к вирусу краснухи IgM",https://lab4u.ru/store/test/antitela-k-virusu-krasnukhi-igm/
+"Антитела к вирусу краснухи IgG (количественный)",https://lab4u.ru/store/test/antitela-k-virusu-krasnukhi-igg/
+"Антитела к вирусу кори IgM",https://lab4u.ru/store/test/antitela-k-virusu-kori-igm/
+"Антитела к вирусу кори IgG (количественный)",https://lab4u.ru/store/test/antitela-k-virusu-kori-igg/
+"Антитела к капсидному антигену вируса Эпштейна-Барр IgM",https://lab4u.ru/store/test/antitela-k-kapsidnomu-antigenu-virusa-epshteyna-barr-vca-igm/
+"Антитела  к ядерному антигену вируса Эпштейна-Барр IgG",https://lab4u.ru/store/test/antitela-k-yadernomu-antigenu-virusa-epshteyna-barr-ebna-igg/
+"Антитела к вирусу Варицелла-Зостер IgM",https://lab4u.ru/store/test/antitela-k-virusu-varitsella-zoster-igm/
+"Антитела к вирусу Варицелла-Зостер IgG",https://lab4u.ru/store/test/antitela-k-virusu-varitsella-zoster-igg/
+"Антитела к возбудителю коклюша IgM",https://lab4u.ru/store/test/antitela-k-vozbuditelyu-koklyusha-igm/
+"Антитела к возбудителю коклюша IgG",https://lab4u.ru/store/test/antitela-k-vozbuditelyu-koklyusha-igg/
+"Антитела к возбудителю сифилиса суммарные",https://lab4u.ru/store/test/analiz-na-sifilis-antitela-k-treponema-pallidum-summarnye-ifa/
+"Сифилис RPR",https://lab4u.ru/store/test/rpr-sifilis-antikardiolipinovyy-test/
+"Антитела к Helicobacter pylori IgG",https://lab4u.ru/store/test/antitela-k-helicobacter-pylori-igg/
+"Антитела к Chlamydophila pneumoniae IgM",https://lab4u.ru/store/test/antitela-k-chlamydophila-pneumoniae-igm-immunoglobuliny-klassa-m-k-vozbuditelyu-respiratornogo-khlam/
+"Антитела к Chlamydophila pneumoniae IgG",https://lab4u.ru/store/test/antitela-k-chlamydophila-pneumoniae-igg-immunoglobuliny-klassa-g-k-vozbuditelyu-respiratornogo-khlam/
+"Антитела к Chlamydia trachomatis IgA",https://lab4u.ru/store/test/antitela-k-chlamydia-trachomatis-iga/
+"Антитела к Chlamydia trachomatis IgM",https://lab4u.ru/store/test/antitela-k-chlamydia-trachomatis-igm/
+"Антитела к Chlamydia trachomatis IgG",https://lab4u.ru/store/test/antitela-k-chlamydia-trachomatis-igg/
+"Антитела к Mycoplasma pneumoniae IgM",https://lab4u.ru/store/test/antitela-k-mycoplasma-pneumoniae-igm/
+"Антитела к Mycoplasma pneumoniae IgG",https://lab4u.ru/store/test/antitela-k-mycoplasma-pneumoniae-igg/
+"Антитела к Ureaplasma urealyticum IgG",https://lab4u.ru/store/test/antitela-k-ureaplasma-urealyticum-igg/
+"Антитела к Ureaplasma urealyticum IgA",https://lab4u.ru/store/test/antitela-k-ureaplasma-urealyticum-iga/
+"Антитела к дифтерийному анатоксину суммарные (титр)",https://lab4u.ru/store/test/antitela-k-difteriynomu-anatoksinu/
+"Группа риска (комплекс анализов)",https://lab4u.ru/store/test/gruppa-riska/
+"Обследование после ОРВИ, гриппа",https://lab4u.ru/store/test/obsledovanie-posle-orvi-grippa/
+"Комплекс анализов на инфекционный мононуклеоз",https://lab4u.ru/store/test/infektsionnyy-mononukleoz/
+"Детские инфекции (комплекс анализов)",https://lab4u.ru/store/test/detskie-infektsii/
+"Антитела к капсидному антигену вируса Эпштейна-Барр IgG",https://lab4u.ru/store/test/antitela-k-kapsidnomu-antigenu-virusa-epshteyna-barr-vca-igg/
+"Антитела к раннему антигену вируса Эпштейна-Барр IgG",https://lab4u.ru/store/test/antitela-k-rannemu-antigenu-virusa-epshteyna-barr-ea-igg/
+"Антитела к вирусу клещевого энцефалита IgM",https://lab4u.ru/store/test/antitela-k-virusu-kleshchevogo-entsefalita-igm/
+"Антитела к вирусу клещевого энцефалита IgG",https://lab4u.ru/store/test/antitela-k-virusu-kleshchevogo-entsefalita-igg/
+"Антитела к возбудителю боррелиоза IgM",https://lab4u.ru/store/test/antitela-k-vozbuditelyu-borrelioza-igm/
+"Антитела к возбудителю боррелиоза IgG",https://lab4u.ru/store/test/antitela-k-vozbuditelyu-borrelioza-igg/
+"Anti-HBcor IgM Антитела к ядерному антигену вируса гепатита B IgM",https://lab4u.ru/store/test/antitela-k-yadernomu-antigenu-virusa-gepatita-b-igm-anti-hbcorag/
+"Anti-HBcor total Антитела к ядерному антигену вируса гепатита B суммарные",https://lab4u.ru/store/test/antitela-k-yadernomu-antigenu-virusa-gepatita-b-summarnye-anti-hbcorag-total/
+"Комплекс анализов на гепатит B",https://lab4u.ru/store/test/kompleks-analizov-na-gepatit-b-hbsag-anti-hbcorag-igm/
+"Антитела к кандида IgG",https://lab4u.ru/store/test/antitela-k-candida-igg/
+"Антитела к возбудителю иерсиниоза (Yersinia enterocolitica O3, O9)",https://lab4u.ru/store/test/antitela-k-vozbuditelyu-iersinioza-yersinia-enterocolitica-o3-o9/
+"Антитела к возбудителю псевдотуберкулеза (Yersinia pseudotuberculosis)",https://lab4u.ru/store/test/antitela-k-vozbuditelyu-psevdotuberkuleza-yersinia-pseudotuberculosis/
+"Антитела к сальмонеллам (комплексный диагностикум)",https://lab4u.ru/store/test/antitela-k-salmonellam-kompleksnyy-diagnostikum/
+"Антитела к Vi -антигену Salmonella typhi",https://lab4u.ru/store/test/antitela-k-vi-antigenu-salmonella-typhi/
+"Антитела к шигеллам Зонне",https://lab4u.ru/store/test/antitela-k-shigellam-zonne/
+"Антитела к шигеллам Флекснера",https://lab4u.ru/store/test/antitela-k-shigellam-fleksnera/
+"Определение авидности антител IgG к цитомегаловирусу",https://lab4u.ru/store/test/opredelenie-avidnosti-antitel-igg-k-tsitomegalovirusu/
+"Антитела к Helicobacter pylori IgA",https://lab4u.ru/store/test/antitela-k-helicobacter-pylori-iga/
+"Антитела к Helicobacter pylori IgM",https://lab4u.ru/store/test/antitela-k-helicobacter-pylori-igm/
+"Диагностика хеликобактерной инфекции (антитела)",https://lab4u.ru/store/test/diagnostika-khelikobakternoy-infektsii-antitela/
+"Диагностика туберкулеза T-SPOT.TB",https://lab4u.ru/store/test/diagnostika-tuberkuleza-t-spot-tb/
+"Квантифероновый тест (диагностика туберкулеза)",https://lab4u.ru/store/test/kvantiferonovyy-test-diagnostika-tuberkuleza/
+"Коронавирус COVID–19",https://lab4u.ru/store/test/koronavirus-covid-19/
+"Катионный протеин эозинофилов",https://lab4u.ru/store/test/kationnyy-protein-eozinofilov/
+"С3-компонент комплемента",https://lab4u.ru/store/test/s3-komponent-komplementa/
+"С4-компонент комплемента",https://lab4u.ru/store/test/s4-komponent-komplementa/
+"Иммуноглобулины A (IgA)",https://lab4u.ru/store/test/immunoglobuliny-a-iga/
+"Иммуноглобулины M (IgM)",https://lab4u.ru/store/test/immunoglobuliny-m-igm/
+"Иммуноглобулины G (IgG)",https://lab4u.ru/store/test/immunoglobuliny-g-igg/
+"Иммуноглобулины E (IgE)",https://lab4u.ru/store/test/immunoglobuliny-e-ige/
+"Гуморальный иммунитет (комплекс анализов)",https://lab4u.ru/store/test/gumoralnyy-immunitet/
+"Циркулирующие иммунные комплексы",https://lab4u.ru/store/test/tsik/
+"Педиатрическая панель (20 аллергенов)",https://lab4u.ru/store/test/pediatricheskaya-panel/
+"Пищевая панель (20 аллергенов)",https://lab4u.ru/store/test/pishchevaya-panel1/
+"Ингаляционная панель (20 аллергенов)",https://lab4u.ru/store/test/ingalyatsionnaya-panel/
+"Бронхиальная астма, обострение (комплекс анализов)",https://lab4u.ru/store/test/bronkhialnaya-astma/
+"Антитела к циклическому цитруллиновому пептиду",https://lab4u.ru/store/test/antitela-k-tsiklicheskomu-tsitrullinovomu-peptidu/
+"Антинуклеарные антитела",https://lab4u.ru/store/test/antinuklearnye-antitela-ana/
+"Антитела к 2-спиральной ДНК",https://lab4u.ru/store/test/antitela-k-2-spiralnoy-dnk/
+"Антитела к кардиолипину IgM",https://lab4u.ru/store/test/antitela-k-kardiolipinu-igm/
+"Антитела к кардиолипину IgG",https://lab4u.ru/store/test/antitela-k-kardiolipinu-igg/
+"Антитела к глиадину IgA",https://lab4u.ru/store/test/antitela-k-gliadinu-iga/
+"Антитела к глиадину IgG",https://lab4u.ru/store/test/antitela-k-gliadinu-igg/
+"Антитела к фосфолипидам IgM и IgG",https://lab4u.ru/store/test/antitela-k-fosfolipidam-igm-igg/
+"Антитела к париетальным клеткам желудка",https://lab4u.ru/store/test/antitela-k-parietalnym-kletkam-zheludka/
+"Антитела к бета-клеткам поджелудочной железы",https://lab4u.ru/store/test/antitela-k-beta-kletkam-podzheludochnoy-zhelezy/
+"Антимитохондриальные антитела",https://lab4u.ru/store/test/antimitokhondrialnye-antitela-ama/
+"Интерлейкин 6",https://lab4u.ru/store/test/interleykin-6-il-6-interleukin-6-il-6/
+"Цитомегаловирус, определение ДНК (мазок)",https://lab4u.ru/store/test/tsitomegalovirus-obnaruzhenie-dnk/
+"Вирус простого герпеса тип 1, 2, определение ДНК (мазок)",https://lab4u.ru/store/test/virus-prostogo-gerpesa-hsv-tip-1-2-obnaruzhenie-dnk/
+"Вирусы папилломы человека типы 16 и 18, определение ДНК",https://lab4u.ru/store/test/virusy-papillomy-cheloveka-vpch-hpv-tip-16-i-18-obnaruzhenie-dnk/
+"Вирусы папилломы человека типы 6 и 11, определение ДНК",https://lab4u.ru/store/test/virusy-papillomy-cheloveka-vpch-hpv-tip-6-i-11-obnaruzhenie-dnk/
+"Chlamydia trachomatis, определение ДНК",https://lab4u.ru/store/test/analyz-na-chlamydia-trachomatis-dnk/
+"Mycoplasma hominis, определение ДНК",https://lab4u.ru/store/test/mycoplasma-hominis-obnaruzhenie-dnk/
+"Mycoplasma genitalium, определение ДНК",https://lab4u.ru/store/test/mycoplasma-genitalium-obnaruzhenie-dnk/
+"Ureaplasma urealyticum, определение ДНК",https://lab4u.ru/store/test/ureaplasma-urealyticum-obnaruzhenie-dnk/
+"Ureaplasma parvum, определение ДНК",https://lab4u.ru/store/test/ureaplasma-parvum-obnaruzhenie-dnk/
+"Neisseria gonorrhoeae, определение ДНК",https://lab4u.ru/store/test/neisseria-gonorrhoeae-obnaruzhenie-dnk/
+"Gardnerella vaginalis, определение ДНК",https://lab4u.ru/store/test/gardnerella-vaginalis-obnaruzhenie-dnk/
+"Trichomonas vaginalis, определение ДНК",https://lab4u.ru/store/test/trichomonas-vaginalis-obnaruzhenie-dnk/
+"Candida albicans, определение ДНК",https://lab4u.ru/store/test/candida-albicans-obnaruzhenie-dnk/
+"ИППП-4 (комплекс анализов методом ПЦР на 4 половые инфекции)",https://lab4u.ru/store/test/infektsii-peredayushchiesya-polovym-putyem-ippp-4/
+"ИППП-6 (комплекс анализов методом ПЦР на 6 половых инфекций)",https://lab4u.ru/store/test/infektsii-peredayushchiesya-polovym-putyem-ippp-6/
+"ИППП-12 (комплекс анализов методом ПЦР на 12 половых инфекций)",https://lab4u.ru/store/test/infektsii-peredayushchiesya-polovym-putyem-ippp-12/
+"Ureaplasma spp, определение ДНК",https://lab4u.ru/store/test/ureaplasma-spp-obnaruzhenie-dnk/
+"Фемофлор 8",https://lab4u.ru/store/test/femoflor-8/
+"Фемофлор 16",https://lab4u.ru/store/test/femoflor-16/
+"Панель ПЦР 12 (фемофлор скрининг)",https://lab4u.ru/store/test/panel-ptsr-12-femoflor-skrining/
+"HAV RNA Вирус гепатита А, определение РНК",https://lab4u.ru/store/test/virus-gepatita-a-hav-obnaruzhenie-rnk/
+"HBV DNA Вирус гепатита В, определение ДНК",https://lab4u.ru/store/test/virus-gepatita-b-hbv-obnaruzhenie-dnk-kachestvenno/
+"HBV DNA Вирус гепатита В, определение ДНК (количественный)",https://lab4u.ru/store/test/virus-gepatita-b-hbv-obnaruzhenie-dnk-kolichestvenno/
+"HCV RNA Вирус гепатита С, определение РНК",https://lab4u.ru/store/test/virus-gepatita-c-hcv-obnaruzhenie-rnk-kachestvenno/
+"HCV RNA Вирус гепатита С, определение РНК (количественный)",https://lab4u.ru/store/test/virus-gepatita-c-hcv-obnaruzhenie-rnk-kolichestvenno/
+"HCV RNA Вирус гепатита С, генотипирование РНК по типам 1, 2 и 3",https://lab4u.ru/store/test/virus-gepatita-s-hcv-genotipirovanie/
+"HDV RNA Вирус гепатита D, определение РНК",https://lab4u.ru/store/test/rnk-virusa-gepatita-d-kachestvenno-hdv-rna/
+"HGV RNA Вирус гепатита G, определение РНК",https://lab4u.ru/store/test/virus-gepatita-g-hgv-obnaruzhenie-rnk/
+"Вирус Эпштейна-Барр, обнаружение ДНК (кровь)",https://lab4u.ru/store/test/virus-epshteyna-barr-ebv-obnaruzhenie-dnk/
+"Вирусы папилломы человека типы 31 и 33, определение ДНК",https://lab4u.ru/store/test/virusy-papillomy-cheloveka-vpch-hpv-tip-31-i-33-obnaruzhenie-dnk/
+"Вирусы папилломы человека типы 16, 18, 31, 33, 35, 39, 45, 51, 52, 56,  58, 59, типирование ДНК",https://lab4u.ru/store/test/virus-papillomy-cheloveka-hpv-tipy-16-18-31-33-35-39-45-51-52-56-58-59-tipirovanie-kachestvenno/
+"Вирусы папилломы человека типы 16, 18, 31, 33, 35, 39, 45, 51, 52, 56,  58, 59, типирование ДНК (количественный)",https://lab4u.ru/store/test/virus-papillomy-cheloveka-hpv-tipy-16-18-31-33-35-39-45-51-52-56-58-59-tipirovanie-kolichestvenno/
+"ИППП-12 количественная оценка (комплекс анализов методом ПЦР на 12 половых инфекций)",https://lab4u.ru/store/test/ippp-12-kolichestvennaya-otsenka-kompleks-analizov-metodom-ptsr-na-12-polovykh-infektsiy-kolichestve/
+"Вирус простого герпеса (HSV) тип 1,2, обнаружение ДНК (кровь)",https://lab4u.ru/store/test/virus-prostogo-gerpesa-hsv-tip-1-2-obnaruzhenie-dnk-krov/
+"Цитомегаловирус, обнаружение ДНК (кровь)",https://lab4u.ru/store/test/tsitomegalovirus-obnaruzhenie-dnk-krov/
+"Герпесвирус человека (HHV) тип 6, обнаружение ДНК (кровь)",https://lab4u.ru/store/test/gerpesvirus-cheloveka-hhv-tip-6-obnaruzhenie-dnk-krov/
+"Герпесвирусы (Эпштейна-Барр вирус, Цитомегаловирус, Вирус герпеса человека тип 6), обнаружение ДНК (кровь)",https://lab4u.ru/store/test/gerpesvirusy-epshteyna-barr-virus-tsitomegalovirus-virus-gerpesa-cheloveka-tip-6-obnaruzhenie-dnk-kr/
+"ИППП-12 для мужчин",https://lab4u.ru/store/test/ippp-12-dlya-muzhchin/
+"ИППП-12 для женщин",https://lab4u.ru/store/test/ippp-12-dlya-zhenshchin/
+"Диагностика анемии (скрининг)",https://lab4u.ru/store/test/diagnostika-anemiy-skrining/
+"Диагностика анемии (расширенное обследование)",https://lab4u.ru/store/test/diagnostika-anemiy-rasshirennoe-obsledovanie/
+"Диагностика железодефицитной анемии",https://lab4u.ru/store/test/zhelezodefitsitnaya-anemiya/
+Миоглобин,https://lab4u.ru/store/test/mioglobin/
+"Тропонин I высокочувствительный",https://lab4u.ru/store/test/troponin-i-vysokochuvstvitelnyy-high-sensitive/
+"N-концевой мозговой натрийуретический пропептид",https://lab4u.ru/store/test/n-kontsevoy-mozgovoy-natriyureticheskiy-propeptid-nt-probnp/
+"С-реактивный белок, ультрачувствительный",https://lab4u.ru/store/test/crp-ultrachuvstvitelnyy/
+Креатинкиназа-МВ,https://lab4u.ru/store/test/kreatinkinaza-mv/
+"Риск сердечно-сосудистых заболеваний (комплекс анализов)",https://lab4u.ru/store/test/risk-serdechno-sosudistykh-zabolevaniy/
+"Миокардит (комплекс анализов)",https://lab4u.ru/store/test/miokardit/
+"Обследование при боли в области сердца (комплекс анализов)",https://lab4u.ru/store/test/boli-v-oblasti-serdtsa/
+"Диагностика бронхита (комплекс анализов)",https://lab4u.ru/store/test/bronkhit/
+"Комплекс анализов Воспаление лёгких",https://lab4u.ru/store/test/vospalenie-lyegkikh/
+"Обследование после перенесенной коронавирусной инфекции COVID-19",https://lab4u.ru/store/test/obsledovanie-posle-perenesennoy-koronavirusnoy-infektsii-covid-19/
+"Антитела к SARS-CoV-2 IgG",https://lab4u.ru/store/test/antitela-k-sars-cov-2-igg/
+"Антитела к SARS-CoV-2 IgM",https://lab4u.ru/store/test/antitela-k-sars-cov-2-igm/
+"Печеночные пробы",https://lab4u.ru/store/test/pechyenochnye-proby/
+"Функция печени, комплекс анализов (печеночные пробы)",https://lab4u.ru/store/test/funktsiya-pecheni/
+"Скрининг на вирусные гепатиты A, B и C",https://lab4u.ru/store/test/gepatity-skrining/
+"Функция поджелудочной железы",https://lab4u.ru/store/test/funktsiya-podzheludochnoy-zhelezy/
+"СКФ по методу Cockroft-Gault",https://lab4u.ru/store/test/kreatinin-skf-cockroft-gault/
+"СКФ по методу MDRD",https://lab4u.ru/store/test/kreatinin-mochevina-albumin-skorost-klubochkovoy-filtratsii-skf-mdrd/
+"Проба Реберга",https://lab4u.ru/store/test/proba-reberga/
+"Почечные пробы",https://lab4u.ru/store/test/pochechnye-proby/
+"Функция почек, комплекс анализов (почечные пробы)",https://lab4u.ru/store/test/funktsiya-pochek/
+Гломерулонефрит,https://lab4u.ru/store/test/glomerulonefrit/
+Ревмопробы,https://lab4u.ru/store/test/revmoproby/
+"Ревматологический (расширенное обследование)",https://lab4u.ru/store/test/revmatologicheskiy-rasshirennoe-obsledovanie/
+"Обследование при мышечной боли",https://lab4u.ru/store/test/dermatomiozit/
+"Боли в суставах (комплекс анализов)",https://lab4u.ru/store/test/boli-v-sustavakh/
+"Антитела к Toxoplasma gondii IgM",https://lab4u.ru/store/test/antitela-k-toxoplasma-gondii-igm/
+"Антитела к Toxoplasma gondii IgG (количественный)",https://lab4u.ru/store/test/antitela-k-toxoplasma-gondii-igg/
+"Обследование перед посещением детского сада, бассейна",https://lab4u.ru/store/test/dlya-spravki-v-d-sad-basseyn/
+"Антитела к антигенам эхинококка IgG",https://lab4u.ru/store/test/antitela-k-antigenam-ekhinokokka-igg/
+"Антитела к антигенам эхинококка IgG (титр)",https://lab4u.ru/store/test/antitela-k-antigenam-ekhinokokka-igg-titr/
+"Антитела к антигенам описторхисов IgG",https://lab4u.ru/store/test/antitela-k-antigenam-opistorkhisov-igg/
+"Антитела к антигенам описторхисов IgG (титр)",https://lab4u.ru/store/test/antitela-k-antigenam-opistorkhisov-igg-titr/
+"Антитела к антигенам токсокар IgG",https://lab4u.ru/store/test/antitela-k-antigenam-toksokar-igg/
+"Антитела к антигенам токсокар IgG (титр)",https://lab4u.ru/store/test/antitela-k-antigenam-toksokar-igg-titr/
+"Антитела к антигенам трихинелл IgG",https://lab4u.ru/store/test/antitela-k-antigenam-trikhinell-igg/
+"Антитела к антигенам трихинелл IgG (титр)",https://lab4u.ru/store/test/antitela-k-antigenam-trikhinell-igg-titr/
+"Антитела к антигенам аскарид IgG",https://lab4u.ru/store/test/antitela-k-antigenam-askarid-igg/
+"Антитела к антигенам аскарид IgG (титр)",https://lab4u.ru/store/test/antitela-k-antigenam-askarid-igg-titr/
+"Антитела к антигенам лямблий суммарные",https://lab4u.ru/store/test/antitela-k-antigenam-lyambliy-summarnye/
+"Антитела к антигенам лямблий суммарные (титр)",https://lab4u.ru/store/test/antitela-k-antigenam-lyambliy-summarnye-titr/
+"Паразитарные инфекции (комплекс анализов по крови)",https://lab4u.ru/store/test/parazitarnye-infektsii/
+"Определение авидности антител IgG к Toxoplasma gondii",https://lab4u.ru/store/test/opredelenie-avidnosti-antitel-igg-k-toxoplasma-gondii/
+"Кардиориск (скрининг)",https://lab4u.ru/store/test/kardiorisk-skrining/
+"В12/фолиево-дефицитная анемия",https://lab4u.ru/store/test/v12-folievo-defitsitnaya-anemii/
+"Сексуальное здоровье мужчины (комплекс анализов)",https://lab4u.ru/store/test/seksualnoe-zdorove-muzhchiny/
+"Ежегодное обследование (комплекс анализов)",https://lab4u.ru/store/test/ezhegodnoe-obsledovanie/
+"Мужчинам старше 45 (комплекс анализов)",https://lab4u.ru/store/test/muzhchinam-starshe-45/
+"Женщинам старше 45 (комплекс анализов)",https://lab4u.ru/store/test/zhenshchinam-starshe-45/
+Гельминтозы,https://lab4u.ru/store/test/gelmintozy/
+"Ежегодная диспансеризация (комплекс анализов)",https://lab4u.ru/store/test/ezhegodnaya-dispanserizatsiya-kompleks-analizov/
+"Комплекс анализов для офисных сотрудников",https://lab4u.ru/store/test/kompleks-analizov-dlya-ofisnykh-sotrudnikov/
+"Комплекс анализов Здоровые волосы, ногти, кожа",https://lab4u.ru/store/test/kompleks-analizov-zdorovye-volosy-nogti-kozha/
+"Обследование перед вакцинацией",https://lab4u.ru/store/test/obsledovanie-pered-vaktsinatsiey/
+"Причины переутомления и усталости",https://lab4u.ru/store/test/prichiny-pereutomleniya-i-ustalosti/
+"Восстановление после родов",https://lab4u.ru/store/test/vosstanovlenie-posle-rodov/
+"Мутации в генах BRCA1 и BRCA2 (8 точек)",https://lab4u.ru/store/test/opredeleniya-geneticheskikh-polimorfizmov-assotsiirovannykh-s-riskom-razvitiya-raka-molochnoy-zhelez/
+"Определение полиморфизмов, ассоциированных с нарушениями MCM6",https://lab4u.ru/store/test/opredelenie-polimorfizmov-assotsiirovannykh-s-narusheniyami-mcm6/
+"Заключение. MCM6 (-13910 T>C)",https://lab4u.ru/store/test/zaklyuchenie-mcm6/
+"Непереносимость лактозы с заключением генетика (недостаточность лактазы)",https://lab4u.ru/store/test/neperenosimost-laktozy-nedostatochnost-laktazy/
+ХГЧ,https://lab4u.ru/store/test/analiz-khgch-obshchiy/
+"Будущим мамам, подготовка к беременности (комплекс анализов)",https://lab4u.ru/store/test/budushchim-mamam/
+"TORCH инфекции IgG и IgM",https://lab4u.ru/store/test/diagnostika-torch-infektsii/
+"Анализы в 1-м триместре беременности (1-13 недели)",https://lab4u.ru/store/test/my-zhdem-rebenka-1-y-trimestr-1-13-nedeli-beremennosti/
+"Анализы во 2-м триместре беременности (14-28 недели)",https://lab4u.ru/store/test/my-zhdem-rebenka-2-y-trimestr-14-28-nedel-beremennosti/
+"Анализы в 3-м триместре беременности (от 29-30 недель и далее)",https://lab4u.ru/store/test/my-zhdem-rebenka-3-y-trimestr-ot-29-30-nedel-i-dalee/
+PAPP-A,https://lab4u.ru/store/test/papp-a-assotsiirovannyy-s-beremennostyu-plazmennyy-belok-a/
+"Комплекс анализов крови для ЭКО (3-5 день цикла)",https://lab4u.ru/store/test/kompleks-analizov-krovi-dlya-eko-3-5-den-tsikla/
+"Комплекс анализов для ЭКО (после 5 дня цикла)",https://lab4u.ru/store/test/kompleks-analizov-dlya-eko-posle-5-dnya-tsikla/
+"Планирование беременности (комплекс анализов)",https://lab4u.ru/store/test/planirovanie-beremennosti-kompleks-analizov/
+"Будущим папам (комплекс анализов)",https://lab4u.ru/store/test/budushchim-papam-kompleks-analizov/
+"Комплекс анализов «Здоровый спорт»",https://lab4u.ru/store/test/muzhskoy-kompleks-analizov-zdorovyy-sport/
+"I Love Supersport: базовый комплекс анализов",https://lab4u.ru/store/test/i-love-supersport-bazovyy-kompleks-analizov/
+"I Love Supersport: атлет",https://lab4u.ru/store/test/i-love-supersport-atlet/
+"I Love Supersport: питание и спорт",https://lab4u.ru/store/test/i-love-supersport-pitanie-i-sport/
+"Ежегодный комплекс анализов для вегетарианцев",https://lab4u.ru/store/test/kompleks-laboratornykh-analizov-dlya-vegetariantsev-veganov/
+"Вегетарианский скрининг",https://lab4u.ru/store/test/vegetarianskiy-skrining/
+"Базовый комплекс анализов для вегетарианцев",https://lab4u.ru/store/test/ezhegodnyi-vegetarianskyi-complex/
+"Ежегодный вегетарианский комплекс анализов после 45 лет",https://lab4u.ru/store/test/ezhegodnyi-vegetarianskyi-complex-posle45/
+"Ежегодный комплекс анализов для веганов",https://lab4u.ru/store/test/ezhegodnyy-kompleks-analizov-dlya-veganov/
+"Базовый комплекс анализов для веганов",https://lab4u.ru/store/test/bazovyy-kompleks-analizov-dlya-veganov/
+"Кальций общий",https://lab4u.ru/store/test/kaltsiy-obshchiy/
+"Кальций ионизированный",https://lab4u.ru/store/test/kaltsiy-ionizirovannyy/
+"Фосфор неорганический",https://lab4u.ru/store/test/fosfor-neorganicheskiy/
+Магний,https://lab4u.ru/store/test/magniy/
+Цинк,https://lab4u.ru/store/test/tsink/
+"Витамин В12",https://lab4u.ru/store/test/vitamin-v12/
+"Фолиевая кислота",https://lab4u.ru/store/test/folievaya-kislota/
+"Кальций в моче суточной",https://lab4u.ru/store/test/kaltsiy-v-moche-sutochnoy/
+"Фосфор неорганический в моче суточной",https://lab4u.ru/store/test/fosfor-v-moche-sutochnoy/
+"Магний в моче суточной",https://lab4u.ru/store/test/magniy-v-moche-sutochnoy/
+"Минеральный обмен (комплекс анализов)",https://lab4u.ru/store/test/mineralnyy-obmen/
+"25-ОН Витамин Д",https://lab4u.ru/store/test/25-oh-vitamin-d/
+"Витамин А",https://lab4u.ru/store/test/vitamin-a-retinol/
+"Витамин С",https://lab4u.ru/store/test/vitamin-c-askorbinovaya-kislota/
+"Витамин Е",https://lab4u.ru/store/test/vitamin-e-tokoferol/
+"Витамин К",https://lab4u.ru/store/test/vitamin-k-fillokhinon/
+"Витамин В1",https://lab4u.ru/store/test/vitamin-b1-tiamin/
+"Витамин В2",https://lab4u.ru/store/test/vitamin-b2-riboflavin/
+"Витамин В3",https://lab4u.ru/store/test/vitamin-b3-niatsin/
+"Витамин В5",https://lab4u.ru/store/test/vitamin-b5-pantotenovaya-kislota/
+"Витамин В6",https://lab4u.ru/store/test/vitamin-v6-piridoksin/
+"Обследование при дефиците витамина Д и кальция",https://lab4u.ru/store/test/obsledovanie-pri-defitsite-vitamina-d/
+Медь,https://lab4u.ru/store/test/med/
+"Медь в моче суточной",https://lab4u.ru/store/test/med-v-moche-sutochnoy/
+Селен,https://lab4u.ru/store/test/selen/
+"Ненасыщенные жирные кислоты Омега-3 и Омега-6",https://lab4u.ru/store/test/nenasyshchennye-zhirnye-kisloty-omega-3-i-omega-6/
+"Ненасыщенные жирные кислоты Омега-3",https://lab4u.ru/store/test/nenasyshchennye-zhirnye-kisloty-omega-3/
+"Ненасыщенные жирные кислоты Омега-6",https://lab4u.ru/store/test/nenasyshchennye-zhirnye-kisloty-omega-6/
+"Определение Омега-3 индекса",https://lab4u.ru/store/test/opredelenie-omega-3-indeksa/
+"Ненасыщенные жирные кислоты Омега-9",https://lab4u.ru/store/test/nenasyshchennye-zhirnye-kisloty-omega-9/
+"Дефициты витаминов и минералов (минимум)",https://lab4u.ru/store/test/defitsity-vitaminov-i-mineralov-minimum/
+"Дефициты витаминов и минералов (оптимум)",https://lab4u.ru/store/test/defitsity-vitaminov-i-mineralov-optimum/
+"Дефициты витаминов и минералов (максимум)",https://lab4u.ru/store/test/defitsity-vitaminov-i-mineralov-maksimum/
+"Дефициты нутриентов",https://lab4u.ru/store/test/defitsity-nutrientov/
+"Комплексный анализ крови на наличие тяжелых металлов и микроэлементов, 23 показателя",https://lab4u.ru/store/test/kompleksnyy-analiz-krovi-na-nalichie-tyazhelykh-metallov-i-mikroelementov-23-pokazatelya/
+"Госпитальный скрининг (ВИЧ, сифилис и гепатиты В и С)",https://lab4u.ru/store/test/gospitalnyy-skrining/
+"Обследование перед операцией",https://lab4u.ru/store/test/obsledovanie-pered-operatsiey/
+Липидограмма,https://lab4u.ru/store/test/lipidogramma-kholesterin-kholesterin-lpvp-kholesterin-lpnp-kholesterin-lponp-triglitseridy-koeffitsi/
+"Жировой обмен (расширенное обследование)",https://lab4u.ru/store/test/zhirovoy-obmen-rasshirennoe-obsledovanie/
+"Лишний вес (комплекс анализов)",https://lab4u.ru/store/test/lishniy-ves/
+"Панель биомаркеров для женщин (open longevity)",https://lab4u.ru/store/test/panel-biomarkerov-dlya-zhenshchin/
+"Панель биомаркеров для мужчин (open longevity)",https://lab4u.ru/store/test/panel-biomarkerov-dlya-muzhchin-panel-open-longevity-panel-biomarkerov-stareniya/
+"Комплекс Минимум рекомендуемых анализов от smart__manya",https://lab4u.ru/store/test/kompleks-minimum-rekomenduemykh-analizov-ot-smart-manya/
+"Комплекс Оптимум рекомендуемых анализов от smart__manya",https://lab4u.ru/store/test/kompleks-optimum-rekomenduemykh-analizov-ot-smart-manya/
+"Комплекс Минимум рекомендуемых анализов от Ketopower",https://lab4u.ru/store/test/kompleks-minimum-rekomenduemykh-analizov-ot-ketopower/
+"Комплекс Оптимум рекомендуемых анализов от Ketopower",https://lab4u.ru/store/test/kompleks-optimum-rekomenduemykh-analizov-ot-ketopower/
+"Ежегодное обследование женщин 25-34 лет",https://lab4u.ru/store/test/ezhegodnoe-obsledovanie-zhenshchin-25-34-let/
+"Ежегодное обследование женщин 35-44 лет",https://lab4u.ru/store/test/ezhegodnoe-obsledovanie-zhenshchin-35-44-let/
+"Ежегодное обследование женщин 45-59 лет",https://lab4u.ru/store/test/ezhegodnoe-obsledovanie-zhenshchin-45-59-let/
+"Ежегодное обследование мужчин 25-34 лет",https://lab4u.ru/store/test/ezhegodnoe-obsledovanie-muzhchin-25-34-let/
+"Ежегодное обследование мужчин 35-44 лет",https://lab4u.ru/store/test/ezhegodnoe-obsledovanie-muzhchin-35-44-let/
+"Ежегодное обследование мужчин 45-59 лет",https://lab4u.ru/store/test/ezhegodnoe-obsledovanie-muzhchin-45-59-let/
+"Ежегодное обследование мужчин 15-24 лет",https://lab4u.ru/store/test/ezhegodnoe-obsledovanie-muzhchin-15-24-let/
+"Ежегодное обследование женщин 15-24 лет",https://lab4u.ru/store/test/ezhegodnoe-obsledovanie-zhenshchin-15-24-let/
+"Ежегодное обследование мужчин старше 60 лет",https://lab4u.ru/store/test/ezhegodnoe-obsledovanie-muzhchin-starshe-60-let/
+"Ежегодное обследование женщин старше 60 лет",https://lab4u.ru/store/test/ezhegodnoe-obsledovanie-zhenshchin-starshe-60-let/

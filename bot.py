@@ -7,8 +7,11 @@ import cv2
 import pytesseract
 from pytesseract import Output
 from matplotlib import pyplot as plt
+import pandas as pd
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
+#TODO Настроить автоматическую загрузку актуальных данных сюда
+test_url_dict = pd.read_csv('test_url_dict.csv')
 
 #Config vars
 with open('config.json') as f:
@@ -31,39 +34,9 @@ def send_quotes(message):
     bot.reply_to(message, quote.json()['content'])
 
 
-# #Intitialize YouTube downloader
-# ydl = youtube_dl.YoutubeDL({'outtmpl': '%(id)s%(ext)s'})
-
-# # works when /ytdl <link> is given
-# @bot.message_handler(commands=['ytdl'])
-# def down(msg):
-#     args = msg.text.split()[1]
-#     try:
-#         with ydl:
-#             result = ydl.extract_info(
-#                 args,
-#                 download=False  # We just want to extract the info
-#             )
-
-#         if 'entries' in result:
-#             # Can be a playlist or a list of videos
-#             video = result['entries'][0]
-#         else:
-#             # Just a video
-#             video = result
-        
-#         for i in video['formats']:
-#             link = '<a href=\"' + i['url'] + '\">' + 'link' + '</a>'
-#             if i.get('format_note'):
-#                 bot.reply_to(msg, 'Quality-' + i['format_note'] + ': ' + link, parse_mode='HTML')
-#             else:
-#                 bot.reply_to(msg, link, parse_mode='HTML', disable_notification=True)
-#     except:
-#         bot.reply_to(msg, 'This can\'t be downloaded by me')
-
 @bot.message_handler(content_types=['photo'])
 def img2text(msg):
-    bot.send_message(msg.chat.id, 'message.photo = {}'.format(msg.photo))
+    # bot.send_message(msg.chat.id, 'message.photo = {}'.format(msg.photo))
     fileID = msg.photo[-1].file_id
     file_info = bot.get_file(fileID)
     downloaded_file = bot.download_file(file_info.file_path)
@@ -71,7 +44,12 @@ def img2text(msg):
     with open("image.jpg", 'wb') as new_file:
         new_file.write(downloaded_file)
 
-    bot.reply_to(msg, pytesseract.image_to_string('image.jpg', lang="rus+eng"))
+    # bot.reply_to(msg, pytesseract.image_to_string('image.jpg', lang="rus+eng"))
+
+    parsed_image = pytesseract.image_to_string('image.jpg', lang="rus+eng")
+    for test in test_url_dict['TEST_NAME']:
+        if parsed_image.find(test) >= 0:
+            bot.send_message(msg.chat.id, test_url_dict.loc[test_url_dict['TEST_NAME'] == test]['URL'].to_string(index=False))
 
     
 
