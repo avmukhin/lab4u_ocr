@@ -8,6 +8,8 @@ import pytesseract
 from pytesseract import Output
 from matplotlib import pyplot as plt
 import pandas as pd
+import time
+from preprocessing import get_grayscale, thresholding
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 #TODO Настроить автоматическую загрузку актуальных данных сюда
@@ -46,10 +48,16 @@ def img2text(msg):
 
     # bot.reply_to(msg, pytesseract.image_to_string('image.jpg', lang="rus+eng"))
 
-    parsed_image = pytesseract.image_to_string('image.jpg', lang="rus+eng")
+    # TODO Поэкспериментировать с другим препроцессингом
+    image = cv2.imread('image.jpg')
+    gray = get_grayscale(image)
+    thresh = thresholding(gray)
+    parsed_image = pytesseract.image_to_string(thresh, lang="rus+eng")
     for test in test_url_dict['TEST_NAME']:
         if parsed_image.find(test) >= 0:
             bot.send_message(msg.chat.id, test_url_dict.loc[test_url_dict['TEST_NAME'] == test]['URL'].to_string(index=False))
+            time.sleep(0.5)
+    bot.send_message(msg.chat.id, "Это всё, что я нашел по этому направлению")
 
     
 
