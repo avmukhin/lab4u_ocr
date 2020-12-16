@@ -1,6 +1,7 @@
-pyTelegramBotAPI
+PyTelegramBotAPI
 requests
-youtube-dl
 matplotlib
 opencv
 pytesseract
+pandas
+vedis

@@ -1,71 +1,19 @@
-#required packages
+# required packages
 import telebot
-import re
-import requests
+import datetime
+
 import os
 import json
-import cv2
-import pytesseract
-from pytesseract import Output
-from matplotlib import pyplot as plt
 import pandas as pd
-import time
-import datetime
-from preprocessing import get_grayscale, thresholding
-from identify_test import get_tests
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-
-#TODO Настроить автоматическую загрузку актуальных данных сюда
-test_url_dict = pd.read_excel('synonyms_urls.xlsx')
-
-#Config vars
+# Config vars
 with open('config.json') as f:
- token = json.load(f)
+    token = json.load(f)
 
-#initialise bot
+# initialise bot
 bot = telebot.TeleBot(token['telegramToken'])
 
-@bot.message_handler(commands=['start'])
-def start_message(message):
-    keyboard = telebot.types.ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
-    keyboard.row('Распознать направление', 'Проверить симптомы')
-    msg = bot.send_message(message.chat.id, 'Привет! Чем займемся?', reply_markup=keyboard)
-
-
-@bot.message_handler(func=lambda message: message.text == "Распознать направление")
-def what_to_do(message):
-    msg = bot.send_message(message.chat.id, "Пришлите фотографию с направлением от врача ")
-    bot.register_next_step_handler(msg, img2text)
-
-
-
-@bot.message_handler(content_types=['photo'])
-def img2text(msg):
-    # bot.send_message(msg.chat.id, 'message.photo = {}'.format(msg.photo))
-    fileID = msg.photo[-1].file_id
-    file_info = bot.get_file(fileID)
-    downloaded_file = bot.download_file(file_info.file_path)
-
-    with open("image.jpg", 'wb') as new_file:
-        new_file.write(downloaded_file)
-
-    # bot.reply_to(msg, pytesseract.image_to_string('image.jpg', lang="rus+eng"))
-
-    # TODO Поэкспериментировать с другим препроцессингом
-    image = cv2.imread('image.jpg')
-    gray = get_grayscale(image)
-    thresh = thresholding(gray)
-    parsed_image = pytesseract.image_to_string(thresh, lang="rus+eng")
-
-    result = get_tests(parsed_image, test_url_dict)
-
-    for url in result['URL']:
-        bot.send_message(msg.chat.id, url)
-        time.sleep(0.5)
-    bot.send_message(msg.chat.id, "Это всё, что я нашел по этому направлению")
-
-
+# @bot.message_handler(commands=['start'])
 @bot.message_handler(func=lambda message: message.text == "Проверить симптомы")
 def ask_age(message):
     data = pd.read_csv('symptom_log.csv')
@@ -91,21 +39,16 @@ def ask_sex(message):
     msg = bot.send_message(message.chat.id, 'Какого вы пола?', reply_markup=keyboard)
     bot.register_next_step_handler(msg, ask_preg)
 
-
 def ask_preg(message):
     data = pd.read_csv('symptom_log.csv')
     chat_id = message.chat.id
     text = message.text
     data.loc[data['ID'] == chat_id, ['Sex']] = text
     data.to_csv('symptom_log.csv', index=False)
-    if text == 'М':
-        bot.send_message(message.chat.id, 'Какой ваш вес?')
-        bot.register_next_step_handler(message, ask_height)
-    else:
-        keyboard = telebot.types.ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
-        keyboard.row('Да', 'Нет')
-        msg = bot.send_message(message.chat.id, 'Вы беременны, планируете беременность или кормите грудью?', reply_markup=keyboard)
-        bot.register_next_step_handler(msg, ask_meno)
+    keyboard = telebot.types.ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
+    keyboard.row('Да', 'Нет')
+    msg = bot.send_message(message.chat.id, 'Вы беременны, планируете беременность или кормите грудью?', reply_markup=keyboard)
+    bot.register_next_step_handler(msg, ask_meno)
 
 def ask_meno(message):
     data = pd.read_csv('symptom_log.csv')
@@ -278,9 +221,6 @@ def ask_last(message):
     data.loc[data['ID'] == chat_id, ['Timestamp']] = (datetime.datetime.now()).timestamp()
     data.to_csv('symptom_log.csv', index=False)
     bot.send_message(chat_id, get_recommendation(chat_id))
-    keyboard = telebot.types.ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
-    keyboard.row('Распознать направление', 'Проверить симптомы')
-    msg = bot.send_message(message.chat.id, 'Что-нибудь еще?', reply_markup=keyboard)
 
 
 def get_recommendation(chat_id):
