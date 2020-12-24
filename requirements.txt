@@ -1,7 +1,8 @@
 PyTelegramBotAPI
-requests
-matplotlib
-opencv
+opencv-python
 pytesseract
 pandas
-vedis
+json
+numpy
+
+
