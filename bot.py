@@ -55,8 +55,8 @@ def what_to_do(message):
 @bot.message_handler(content_types=['photo'])
 def img2text(msg):
     
-    if message.text == '/start':
-            start_message(message)
+    if msg.text == '/start':
+            start_message(msg)
             return
 
     fileID = msg.photo[-1].file_id
