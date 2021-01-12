@@ -19,7 +19,7 @@ from identify_test import get_tests
 
 base_file = 'symptom_check.xlsx'
 
-tessdata_dir_config = '--tessdata-dir "~/lab4u-bot/lab4u_ocr/tess-rus"'
+# tessdata_dir_config = '--tessdata-dir "~/lab4u-bot/lab4u_ocr/tessdata"'
 
 #TODO Настроить автоматическую загрузку актуальных данных сюда
 test_url_dict = pd.read_excel('synonyms_urls.xlsx', engine='openpyxl')
@@ -69,13 +69,19 @@ def img2text(msg):
         new_file.write(downloaded_file)
 
     # bot.reply_to(msg, pytesseract.image_to_string('image.jpg', lang="rus+eng"))
-
+#    bot.send_message(msg.chat.id, 'Uno')
+    
     # TODO Поэкспериментировать с другим препроцессингом
     image = cv2.imread('image.jpg')
     gray = get_grayscale(image)
     thresh = thresholding(gray)
-    parsed_image = pytesseract.image_to_string(thresh, lang="rus+eng", config=tessdata_dir_config)
+    bot.send_message(msg.chat.id, 'Начинаю распознавание изображения')
+    # bot.send_message(msg.chat.id, thresh)
 
+    parsed_image = pytesseract.image_to_string(thresh, lang="rus+eng")
+    
+    bot.send_message(msg.chat.id, 'Фотография распознана')
+    #bot.send_message(msg.chat.id, parsed_image)
     result = get_tests(parsed_image, test_url_dict)
 
     for url in result['URL']:
