@@ -20,7 +20,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 base_file = 'symptom_check.xlsx'
 
 #TODO Настроить автоматическую загрузку актуальных данных сюда
-test_url_dict = pd.read_excel('synonyms_urls.xlsx')
+test_url_dict = pd.read_excel('synonyms_urls.xlsx', engine='openpyxl')
 
 #Config vars
 with open('config.json') as f:
@@ -84,7 +84,7 @@ def img2text(msg):
 
 
 def get_recommendation(chat_id):
-    base = pd.read_excel(base_file)
+    base = pd.read_excel(base_file, engine='openpyxl')
     data = pd.read_csv('symptom_log.csv')
     user_line = data.loc[data['ID'] == chat_id]
     user_line = user_line.loc[int(user_line.index.values)]
@@ -112,7 +112,7 @@ def next_symptom1(message):
     text = message.text
 
     data = pd.read_csv('symptom_log.csv')
-    base = pd.read_excel(base_file)
+    base = pd.read_excel(base_file, engine='openpyxl')
 
     if text == '/start':
         question_id = None
