@@ -14,10 +14,12 @@ import time
 import datetime
 from preprocessing import get_grayscale, thresholding
 from identify_test import get_tests
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+# pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 
 base_file = 'symptom_check.xlsx'
+
+tessdata_dir_config = '--tessdata-dir "~/lab4u-bot/lab4u_ocr/tess-rus"'
 
 #TODO Настроить автоматическую загрузку актуальных данных сюда
 test_url_dict = pd.read_excel('synonyms_urls.xlsx', engine='openpyxl')
@@ -72,7 +74,7 @@ def img2text(msg):
     image = cv2.imread('image.jpg')
     gray = get_grayscale(image)
     thresh = thresholding(gray)
-    parsed_image = pytesseract.image_to_string(thresh, lang="rus+eng")
+    parsed_image = pytesseract.image_to_string(thresh, lang="rus+eng", config=tessdata_dir_config)
 
     result = get_tests(parsed_image, test_url_dict)
 
